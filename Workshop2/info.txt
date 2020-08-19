@@ -1,0 +1,10 @@
+PDF Lecture Slides:
+
+1. Overview of Machine Learning
+2. Clustering (K-means, Hierarchical Clustering)
+3. Dimensionality Reduction (PCA, ICA, MDS, SOM, tSNE)
+4. Imputation
+5. Supervised Learning: Principle
+6. Supervised Learning: Methods
+7. Neural Nets
+
