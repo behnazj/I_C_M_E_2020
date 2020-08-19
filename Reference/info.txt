@@ -1,0 +1,2 @@
+- An Introduction to Statistical Learning with Applications in R by Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani. 
+- The Elements of Statistical Learning by Trevor Hastie, Robert Tibshirani, and Jerome Friedman. 
