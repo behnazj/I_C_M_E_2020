@@ -2,6 +2,7 @@
 
 This Repository contains files and lecture slides from  I_C_M_E 2020 Summer Workshops titled Fundamentals of Data Science. It covered a wide range of topics from Machine Learning to HCP. Some documents are publickly avialbe from instructors' websites (copyright).
 
+- Workshop #0: Stat
 - Workshop #1: Py
 - [Workshop #2](https://sites.google.com/site/ml2020icme/home): ML
 - [Workshop #3](https://icme-workshops.github.io/deep-learning/): DL
@@ -9,7 +10,41 @@ This Repository contains files and lecture slides from  I_C_M_E 2020 Summer Work
 
 # Additional Resources
 
+## Statistics
+
+- Session 1
+  - Descriptive statistics for exploring data, especially visualization
+  - Sampling, studies and experiments
+- Session 2 
+  - Probability: basic rules, conditional probability, Bayes' rule
+  - Sampling distributions and the central limit theorem
+- Session 3
+  - Regression
+  - Confidence intervals and the bootstrap principle
+- Session 4
+  - Tests of significance, multiple comparisons and reproducibility
+
+Here is an additional resource:
+
+- Statistics Visualizations - [Seeing Theory](https://seeing-theory.brown.edu/)
+
 ## Machine Learning 
+
+- Session 1 Introduction
+  - Overview of Machine Learning
+- Session 2 Unsupervised Learning
+  - Clustering (K-means, Hierarchical Clustering)
+  - Dimensionality Reduction (PCA, ICA, MDS, SOM, tSNE)
+  - Imputation
+- Session 3
+  - Supervised Learning: Principles
+    - Cross-validation
+    - Regularization and Sparsity (lasso, ridge regression, elastic net)
+- Session 4
+  - Supervised Learning: Methods
+    - Classification and Regression Trees 
+    - Ensembles
+    - Neural
 
 Reference books (see reference folder):
 
@@ -17,6 +52,27 @@ Reference books (see reference folder):
 2. [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/) by T. Hastie, R. Tibshirani, and J. Friedman - Free online book
 
 ##  Deep Learning
+
+- Session 1 
+  - Introduction
+  - Current state of the art in deep learning
+  - Math review
+  - Architecture of multi-layer neural networks
+- Session 2 
+  - Loss functions
+  - The backpropgation algorithm
+  - The gradient descent algorithm
+  - Over-fitting and Under-fitting
+- Session 3 
+  - Convolutional Neural Networks
+  - Recurrent Neural Networks
+  - Other Architectures
+  - Deep Learning Libraries
+  - Hands-on coding Session - Tensorflow
+- Session 4
+  - Hands-on coding Session - Keras
+  - Hands-on coding Session - Transfer Learning
+  - Failures of deep learning
 
 Here are some additional resources for various topics:
 
