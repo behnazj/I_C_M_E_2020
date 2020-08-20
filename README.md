@@ -2,9 +2,9 @@
 
 This Repository contains files and lecture slides from  I_C_M_E 2020 Summer Workshops titled Fundamentals of Data Science. It covered a wide range of topics from Machine Learning to HCP. Some documents are publickly avialbe from instructors' websites (copyright).
 
-- Workshop #1: Py
-- [Workshop #2](https://sites.google.com/site/ml2020icme/home): ML
-- Workshop #3: DL
+- Workshop #1: Python
+- [Workshop #2](https://sites.google.com/site/ml2020icme/home): Machine LEarning
+- [Workshop #3](https://icme-workshops.github.io/deep-learning/): Deep Learning
 - Workshop #4: HCP
 
 Reference books (see reference folder):
