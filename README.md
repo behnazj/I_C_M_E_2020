@@ -7,13 +7,16 @@ This Repository contains files and lecture slides from  I_C_M_E 2020 Summer Work
 - [Workshop #3](https://icme-workshops.github.io/deep-learning/): Deep Learning
 - Workshop #4: HCP
 
-## Additional Resources
+# Additional Resources
 
-# Machine Learning Reference books (see reference folder):
+## Machine Learning 
+
+Reference books (see reference folder):
+
 1. [An Introduction to Statistical Learning with Applications in R](http://faculty.marshall.usc.edu/gareth-james/ISL/) by Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani. 
 2. [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/) by Trevor Hastie, Robert Tibshirani, and Jerome Friedman.  
 
-# Deep Learning
+##  Deep Learning
 
 Here are some additional resources for various topics:
 
