@@ -76,10 +76,6 @@ Reference books (see reference folder):
 
 Here are some additional resources for various topics:
 
-- Calculus Fundamentals
-  - [Essence of Calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) by Grant Sanderson
-- Linear Algebra Fundamentals
-  - [Essence of Linear Algebra](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) by Grant Sanderson
 - Books
   - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) by Michael Nielsen - Free online book
   - [Deep Learning](https://www.deeplearningbook.org/) by Ian Goodfellow and Yoshua Bengio and Aaron Courville
@@ -96,3 +92,10 @@ Here are some additional resources for various topics:
 - Interesting talks on advanced topics
   - Ben Recht - [Training on test set and other heresies](https://www.youtube.com/watch?v=NTz4rJS9BAI)
   - Aleksander Madry - [A new perspective on Adversarial Perturbations](https://www.youtube.com/watch?v=mUt7w4UoYqM)
+
+##  High Performance Computing
+
+- Session 1: Algorithms 
+- Session 2: Shared Memory
+- Session 3: Distributed Memory 
+- Session 4: Spark
