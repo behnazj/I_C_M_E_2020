@@ -1,0 +1,7 @@
+HCP worksop
+
+Session 1: Algorithms
+Session 2: Shared Memory
+Session 3: Distributed Memory
+Session 4: Spark
+5: Conclusion
